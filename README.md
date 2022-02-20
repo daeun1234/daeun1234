@@ -13,7 +13,7 @@ I am currently a senior in business administration at Seoul National University 
 2. jurassic_world (JavaScript) : finish 🌻 <br>
    A mud game where you get items from Jurassic World, defeat dinosaurs, get teeth, and escape.<br>
 3. waffle-android-assign (Kotlin) : finish 🌻 <br>
-   Simple applications submitted as Waffle Studio (SNU Club) 19.5 rookie assignments. <br>
+   Simple applications submitted as Waffle Studio (SNU Club) 19.5 rookies assignments. <br>
   
 # 
 **✏️ Studies (Python) <br>**
