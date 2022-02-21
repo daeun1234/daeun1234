@@ -3,7 +3,7 @@
 <br>
 Hi there 🙂 <br>
 I am a student who dreams of becoming a data analyst. 💻 <br>
-I am currently a senior in business administration at Seoul National University and do various projects and studies. <br>
+I am currently a senior in business administration at Seoul National University and doing various projects and studies. <br>
 
 # 
 
