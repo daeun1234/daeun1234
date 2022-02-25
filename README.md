@@ -12,6 +12,7 @@ I am currently a senior in business administration at Seoul National University 
    An application where you can see maps, timetable, and useful information of Seoul National University in one place. <br>
 2. jurassic_world (JavaScript) : finish 🌻 <br>
    A mud game where you get items from Jurassic World, defeat dinosaurs, get teeth, and escape.<br>
+   → game url: https://8oegt.sse.codesandbox.io/ <br>
 3. waffle-android-assign (Kotlin) : finish 🌻 <br>
    Simple applications submitted as Waffle Studio (SNU Club) 19.5 rookies assignments. <br>
   
